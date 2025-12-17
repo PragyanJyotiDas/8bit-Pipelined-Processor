@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/verilog projects/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+D:/verilog projects/project_1/project_1.srcs/sim_1/new/tb_processor.v,1765960640,verilog,,,,tb_processor,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/alu.v,1765960957,verilog,,D:/verilog projects/project_1/project_1.srcs/sources_1/new/control_unit.v,D:/verilog projects/project_1/project_1.srcs/sources_1/new/defines.v,alu,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/control_unit.v,1765960639,verilog,,D:/verilog projects/project_1/project_1.srcs/sources_1/new/data_memory.v,D:/verilog projects/project_1/project_1.srcs/sources_1/new/defines.v,control_unit,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/data_memory.v,1765960640,verilog,,D:/verilog projects/project_1/project_1.srcs/sources_1/new/forwarding_unit.v,,data_memory,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/defines.v,1765960957,verilog,,,,,,,,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/forwarding_unit.v,1765960639,verilog,,D:/verilog projects/project_1/project_1.srcs/sources_1/new/hazard_unit.v,,forwarding_unit,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/hazard_unit.v,1765960639,verilog,,D:/verilog projects/project_1/project_1.srcs/sources_1/new/instr_memory.v,,hazard_unit,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/instr_memory.v,1765960640,verilog,,D:/verilog projects/project_1/project_1.srcs/sources_1/new/pipeline_regs.v,,instr_memory,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/pipeline_regs.v,1765960639,verilog,,D:/verilog projects/project_1/project_1.srcs/sources_1/new/processor_top.v,,ex_mem_reg;id_ex_reg;if_id_reg;mem_wb_reg,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/processor_top.v,1765960640,verilog,,D:/verilog projects/project_1/project_1.srcs/sources_1/new/reg_file.v,D:/verilog projects/project_1/project_1.srcs/sources_1/new/defines.v,processor_top,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/verilog projects/project_1/project_1.srcs/sources_1/new/reg_file.v,1765960640,verilog,,D:/verilog projects/project_1/project_1.srcs/sim_1/new/tb_processor.v,,reg_file,,,../../../../../../vivado/2025.2/Vivado/data/rsb/busdef,,,,,
